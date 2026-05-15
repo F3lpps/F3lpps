@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/kimi-no-na-wa-comet-tiamat-anime-gif-17508165" width="100%">
+  <img src="https://media.tenor.com/8rQxM9rX6dQAAAAC/kimi-no-na-wa-comet.gif" width="100%">
 </p>
 
 <h1 align="center">Fellipe de Souza Bernardes</h1>
