@@ -2,6 +2,10 @@
   <img src="https://i.pinimg.com/originals/8d/4e/0d/8d4e0d7d8c6bb4f4c5b4f6d5d8d4d8c7.gif" width="100%">
 </p>
 
+<p align="center">
+  <img src="./assets/comet.gif" width="100%">
+</p>
+
 <h1 align="center">Fellipe de Souza Bernardes</h1>
 
 <p align="center">
