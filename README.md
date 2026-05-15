@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/night-rain.gif" width="100%">
+  <img src="https://tenor.com/pt-BR/view/uw-u-gif-27213016" width="100%">
 </p>
 
 <h1 align="center">Fellipe de Souza Bernardes</h1>
