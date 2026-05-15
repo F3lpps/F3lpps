@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/your-name-kimi-no-na-wa-sky-meteor-taki-gif-22523532" width="100%">
+  <img src="https://media1.tenor.com/m/Oanot816vugAAAAd/your-name-kimi-no-na-wa.gif" width="100%">
 </p>
 
 <h1 align="center">Fellipe de Souza Bernardes</h1>
