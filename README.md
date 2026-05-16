@@ -10,11 +10,12 @@
 
 </td>
 
-<td width="30%">
+<td width="30%" align="center">
 
-<img src="over-the-garden-wall-like-it.gif" width="180px">
+<img src="./assets/over-the-garden-wall-like-it.gif" width="180px">
 
 </td>
+
 </tr>
 </table>
 
