@@ -8,17 +8,6 @@
   <i>"somewhere between technology, art and silence."</i>
 </p>
 
-</td>
-
-<td width="30%" align="center">
-
-<img src="./assets/over-the-garden-wall-like-it.gif" width="180px">
-
-</td>
-
-</tr>
-</table>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=4000&pause=1000&color=D6C6B8&center=true&vCenter=true&width=500&lines=Programming+Web+Student;Tech+Enthusiast;Reader+and+Writer;Building+things+late+at+night" />
 </p>
@@ -32,6 +21,17 @@
 - 💻 Programming Web student at SENAC-RS  
 - 🧠 Passionate about technology, science and art  
 - 🌧️ Loves books, rainy nights and obscure stories  
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="./assets/over-the-garden-wall-like-it.gif" width="180px">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
