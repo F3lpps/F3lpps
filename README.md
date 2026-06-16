@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/comet.gif" width="100%">
-</p>
-
 <h1 align="center">Fellipe de Souza Bernardes</h1>
 
 <p align="center">
